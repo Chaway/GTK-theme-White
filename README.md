@@ -10,6 +10,6 @@ Preview:
 Installation:
 
 ```
-cd /usr/share/themes && git clone https://github.com/Chaway/GTK-theme-White.git
+git clone https://github.com/Chaway/GTK-theme-White.git && sudo mv GTK-theme-White /usr/share/themes/
 ```
 Open `gnome-tweak-tool` and choose theme "white"  
